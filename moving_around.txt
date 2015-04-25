@@ -1,0 +1,17 @@
+    1  pwd
+    2  cd
+    3  ls
+    4  cd ..
+    5  cd ../..
+    6  ls -t
+    7  ls -r
+    8  ls -l
+    9  history
+   10  history > moving-around.text
+   11  history > moving_around2.text
+   12  pwd
+   13  lsd
+   14  ls
+   15  cd
+   16  pwd
+   17  history > moving_around.txt
